@@ -2,6 +2,7 @@
 VRChat想定で、OSCで音声波形データを送りつける
 
 ![動作画面](docs/ss.png)
+![VRChat内での動作](docs/ss2.png)
 
 # 環境構築
 
