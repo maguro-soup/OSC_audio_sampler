@@ -31,3 +31,12 @@ $ pip install -r requirements.txt
 ```
 $ python .\main.py
 ```
+
+# アバターパラメーター
+
+audio_0～audio_15に入ってきます。
+
+# Tips
+
+VRChat.exe決め打ちで音声が入ってるわけではないです。  
+アバターつくるときに適当にYoutubeでもながせば、デバッグできます。
